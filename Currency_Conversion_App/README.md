@@ -1,0 +1,1 @@
+A CLI Based currency conversion App which uses exchange rate API for conversion.
